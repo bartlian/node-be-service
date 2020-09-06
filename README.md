@@ -1,2 +1,6 @@
 # node-be-service
-a node service app by koa2
+后台应用，使用koa2开发
+
+未完
+
+
